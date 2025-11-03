@@ -1,0 +1,23 @@
+#root {
+  margin: 0;
+  text-align: center;
+}
+
+.container{
+  margin:0;
+  background-color: aquamarine;
+
+}
+
+
+
+
+th{
+  background-color: antiquewhite;
+  padding:10px;
+}
+
+td{
+  background-color: azure;
+  padding: 10px;
+}
