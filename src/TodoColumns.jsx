@@ -1,7 +1,7 @@
 function TodoColumns() {
   return (
     <>
-      <table>
+      <table className="table-container">
         <thead>
           <tr>
             <th>Task name</th>

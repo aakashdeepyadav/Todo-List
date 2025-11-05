@@ -1,7 +1,7 @@
 function DisplayTodoItems({ tasks }) {
   return (
     <>
-      <table>
+      <table className="table-container">
         <tbody>
           {tasks.map((item, index) => (
             <tr key={index}>
